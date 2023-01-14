@@ -1,0 +1,28 @@
+Start testing memory and time...
+input_path:data\GoogleWeb\input_data
+num_compers:4
+out gdmin_deg_ratio:0.75
+in gdmin_deg_ratio:0.8
+gnmin_size:15
+TIME_THRESHOLD:1
+BIGTASK_THRESHOLD:200
+tasks_per_fetch_g:1
+Qbig_capacity:16
+Qreg_capacity:512
+BT_TASKS_PER_FILE:4
+MINI_BATCH_NUM:40
+RT_TASKS_PER_FILE:32
+BT_THRESHOLD_FOR_REFILL:8
+RT_THRESHOLD_FOR_REFILL:128
+Maximal vertex degree: 372
+**** 2hop execution Time ****:0.052467
+load_data() execution time:0.383
+initialize_tasks() execution time:0
+global_num_idle: 4
+run() execution Time:1.198
+disk time:0.145
+2-hop time:0.069
+Running time(without disk time): 1.437 s
+Running time(without disk time and 2hop): 1.368 s
+cpu usage ratio: 9%
+Testing ends...

@@ -1,0 +1,28 @@
+Start testing memory and time...
+input_path:data\ArnetMiner\input_data
+num_compers:4
+out gdmin_deg_ratio:0.75
+in gdmin_deg_ratio:0.75
+gnmin_size:10
+TIME_THRESHOLD:1
+BIGTASK_THRESHOLD:10000
+tasks_per_fetch_g:1
+Qbig_capacity:16
+Qreg_capacity:512
+BT_TASKS_PER_FILE:4
+MINI_BATCH_NUM:40
+RT_TASKS_PER_FILE:32
+BT_THRESHOLD_FOR_REFILL:8
+RT_THRESHOLD_FOR_REFILL:128
+Maximal vertex degree: 159
+**** 2hop execution Time ****:0.006425
+load_data() execution time:0.02
+initialize_tasks() execution time:0.001
+global_num_idle: 4
+run() execution Time:0.331
+disk time:0.006
+2-hop time:0.007
+Running time(without disk time): 0.348 s
+Running time(without disk time and 2hop): 0.341 s
+cpu usage ratio: 0%
+Testing ends...

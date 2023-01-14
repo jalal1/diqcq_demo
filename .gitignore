@@ -1,0 +1,10 @@
+.t-thinker-demo
+__pycache__
+data/GoogleWeb-Mini
+data/Physics
+/buffered_tasks
+.vscode
+helper.ipynb
+test.py
+test
+static/js/test.js
