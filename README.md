@@ -25,6 +25,10 @@ with the help of graph visualization functionalities
   <img src="imgs/qc1.png" />
 </p>
 
+<p align="center">
+  <img src="imgs/qc2.gif" />
+</p>
+
 
 ## YouTube Demo
 
